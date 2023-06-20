@@ -1,0 +1,4 @@
+pandas==0.24.2
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-logging
